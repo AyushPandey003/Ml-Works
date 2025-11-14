@@ -72,6 +72,3 @@ License
 
 Contact
 - Author: Ayush — repository: `Ml-Works`
-- If you want, I can also add: `requirements.txt`, a sample notebook `Notebooks/OULAD_EDA.ipynb`, or a small data loader script.
-
-Enjoy exploring OULAD — let me know if you want me to scaffold notebooks or add reproducible scripts!
